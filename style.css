@@ -170,69 +170,6 @@
 }
 
 
-/* Contact Section */
-#contact {
-    padding: 50px 0;
-}
-
-.contact-wrapper {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-
-}
-
-.contact-form {
-    flex: 1;
-    max-width: 500px;
-}
-
-.contact-image {
-    flex: 1;
-    padding: 20px;
-    
-}
-
-.contact-image img {
-    width: 100%;
-    height: auto;
-    border-radius: 10px;
-}
-
-#contact h2 {
-    text-align: left;
-    margin-bottom: 20px;
-}
-
-#contact form {
-    max-width: 100%;
-}
-
-#contact label {
-    display: block;
-    margin-top: 10px;
-}
-
-#contact input, #contact textarea {
-    width: 100%;
-    padding: 10px;
-    margin-top: 5px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-
-#contact button {
-    margin-top: 10px;
-    padding: 10px 20px;
-    background-color: #553232;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-
 /* Footer */
 /* Footer */
 footer {
@@ -372,4 +309,5 @@ footer p {
     .top_links.open{
       right: 0;
     }
+
   }
